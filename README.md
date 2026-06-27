@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ben 👋</h1>
 
 <p align="center">
-  Full-Stack Developer & Mobile App Builder &nbsp;|&nbsp; Dar es Salaam, Tanzania 🇹🇿
+  Full-Stack Developer & Mobile App Builder &nbsp;|&nbsp; Tanzania 🇹🇿
 </p>
 
 ---
