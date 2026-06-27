@@ -51,9 +51,9 @@
 
 ---
 
-### 📬 Let's Work Together
+### Let's Work Together
 
-If you have a project that needs building, I'm available for freelance &/or collaboration work. Let's talk.
+If you have a project that needs building, I'm available for freelance & collaboration work. Let's talk.
 
 <p>
   <a href="mailto:benith255@gmail.com">
