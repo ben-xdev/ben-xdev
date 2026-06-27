@@ -11,7 +11,7 @@
 - Build backend systems and REST APIs with **Laravel** and **FastAPI**
 - Develop full-stack web applications using **Next.js** and **React** with **TypeScript**
 - Build cross-platform mobile apps with **Flutter**
-- Work with relational databases — **PostgreSQL** and **MySQL** — from schema design to optimized queries
+- Work with relational databases - **PostgreSQL** and **MySQL** - from schema design to optimized queries
 - Style interfaces with **Tailwind CSS** for clean, responsive UIs
 
 ---
