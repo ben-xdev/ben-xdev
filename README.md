@@ -61,7 +61,7 @@ If you have a project that needs building, I'm available for freelance & collabo
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://ben-merad.vercel.app/">
+  <a href="https://ben-merad.is-a.dev/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
