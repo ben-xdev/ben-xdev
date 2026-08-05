@@ -43,6 +43,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools & Environment**
+
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
